@@ -1,4 +1,4 @@
-# HQ Icons (ver 1.0) for IX-Ray Platform
+# HQ Icons (ver 2.0) for IX-Ray Platform
 
 Addon with high-quality redesigned in-game item icons
 
@@ -17,7 +17,7 @@ This addon completely reworks all in-game item icons from scratch. All renders w
 Installation:
 
 1. Install original Stalker Call of Pripyat 1.6.02
-2. Install current version of IX-Ray (minimum 1.2.1)
+2. Install current version of IX-Ray (minimum 1.3)
 3. Extract addon archive into the game folder
 4. Start the game and play
 
@@ -47,7 +47,7 @@ Link to the current __IX-Ray__ [release](https://github.com/ixray-team/ixray-1.6
 Установка:
 
 1. Установить оригинальный Stalker Call of Pripyat 1.6.02
-2. Установить актуальную версию IX-Ray (минимальная 1.2.1)
+2. Установить актуальную версию IX-Ray (минимальная 1.3)
 3. Распакуйте архив аддона в папку с игрой
 4. Запустите игру и играйте
 
