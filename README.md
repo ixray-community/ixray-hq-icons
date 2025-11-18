@@ -27,6 +27,7 @@ Link to the current __IX-Ray__ [release](https://github.com/ixray-team/ixray-1.6
 
 - `MSR`
 - `Drombeys`
+- `St4lker0k765`
 
 ## License
 
@@ -57,6 +58,7 @@ Link to the current __IX-Ray__ [release](https://github.com/ixray-team/ixray-1.6
 
 - `MSR`
 - `Drombeys`
+- `St4lker0k765`
 
 ## Лицензия
 
